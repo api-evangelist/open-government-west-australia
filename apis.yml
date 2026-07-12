@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://data.wa.gov.au/
 common:
+  - type: DomainSecurity
+    url: security/open-government-west-australia-domain-security.yml
   - type: Website
     url: https://data.wa.gov.au/
   - type: PublicAPIsListing
