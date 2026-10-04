@@ -39,7 +39,6 @@ apis:
   - name: Open Government, West Australia
     description: "West Australia Open Data"
     humanURL: https://data.wa.gov.au/
-    baseURL: https://data.wa.gov.au/
     tags:
       - Government
     properties:
